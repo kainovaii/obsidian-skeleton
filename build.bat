@@ -1,1 +1,1 @@
-mvn clean package && cls && java -jar target/Spark-1.0-jar-with-dependencies.jar
+mvn clean package && cls && java -jar target/Obsidian-1.0.1.jar
